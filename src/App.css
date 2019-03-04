@@ -1,0 +1,96 @@
+.container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.description {
+  font-size: 13px;
+  color: #7e7c7c;
+}
+
+.title-block {
+  margin-bottom: 30px;
+}
+
+.job {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-left: 2px solid #fff;
+}
+
+.job:hover {
+  box-shadow: 1px 1px 10px #bbb;
+  border-left: 2px solid #0081f2;
+}
+
+.job img {
+  height: 65px;
+}
+
+.designation {
+  margin-top: 17px;
+  font-size: 15px;
+}
+
+.company {
+  font-size: 12px;
+  color: #e61ddc;
+}
+
+.address {
+  margin-top: 30px;
+}
+
+.fa-map-marker-alt,
+.fa-heart {
+  color: #7e7c7c;
+}
+
+.country {
+  font-size: 12px;
+  color: #7e7c7c;
+  margin-left: 10px;
+}
+
+.favorite {
+  margin-top: 25px;
+}
+
+.tag {
+  font-size: 7px;
+  padding: 5px 8px;
+  border: 1px solid green;
+  color: green;
+  border-radius: 15px;
+  margin-left: 15px;
+}
+
+.fa-heart {
+  margin-top: 8px;
+  display: inline-block;
+}
+
+.full_time {
+  color: blueviolet;
+  border-color: blueviolet;
+}
+
+.part_time {
+  color: lightgreen;
+  border-color: lightgreen;
+}
+
+.freelance {
+  color: red;
+  border-color: red;
+}
+
+.temporary {
+  color: darkgreen;
+  border-color: darkgreen;
+}
+
+.load-more {
+  margin-top: 40px;
+}
